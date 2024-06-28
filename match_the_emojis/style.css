@@ -80,7 +80,6 @@ h2
     position: absolute;
     inset: 0;
     background: orange;
-    /*opacity: 0.85; */
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
